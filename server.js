@@ -84,4 +84,4 @@ initDb(function(err){
 });
 
 app.listen(port, ip);
-console.log('my Click2Cloud Server running on ' + ip + ':' + port);
+console.log('my Click2Cloud's Server running on ' + ip + ':' + port);
